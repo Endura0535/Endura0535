@@ -1,4 +1,6 @@
-<p align="center">  Hello, I'm Soobin 🙌🏻 </p>
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello,%20I'm%20Soobin%20🙌🏻)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dhrtnqls0535)](https://solved.ac/dhrtnqls0535)
 
 <br />
 
